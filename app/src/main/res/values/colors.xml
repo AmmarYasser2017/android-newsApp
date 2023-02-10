@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#39A552</color>
+    <color name="green_dark">#226031</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_grey">#79828B</color>
+    <color name="grey_dark">#4F5A69</color>
+
+    <color name="sports">#C91C22</color>
+    <color name="politics">#003E90</color>
+    <color name="health">#ED1E79</color>
+    <color name="business">#CF7E48</color>
+    <color name="environment">#4882CF</color>
+    <color name="science">#F2D352</color>
+
+</resources>
